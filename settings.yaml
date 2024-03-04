@@ -51,12 +51,6 @@ AWS_ENV:
 #  REDIS_PASSWORD: "3RgzpsfCgpTMabUM"
   REDIS_HOST: "127.0.0.1"
   REDIS_PORT: "6379"
-  AWS:
-    AWS_REGION: us-east-1
-    AWS_SECRET_NAME: matcher_recruitai
-    SOVREN_ACCOUNT_ID: "69515476"
-    SOVREN_ACCOUNT_SERVICE_KEY: "xbcnRD4gWcwi1FHoMZnnbINDOqtziX8PDcHvkdd8"
-    
 
 PRODUCTION:
   DEBUG: false
